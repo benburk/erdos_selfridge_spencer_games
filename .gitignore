@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# This project
+_archive/
