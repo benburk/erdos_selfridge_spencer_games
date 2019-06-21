@@ -1,4 +1,4 @@
-# Erdos Selfridge Spencer Games
+# Erdos-Selfridge-Spencer Games
 Train reinforcement learning agents to play Erdos-Selfridge-Spencer games.
 
 # References
